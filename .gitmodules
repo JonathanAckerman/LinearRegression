@@ -1,0 +1,3 @@
+[submodule "YTE"]
+	path = YTE
+	url = https://github.com/playmer/YTE
